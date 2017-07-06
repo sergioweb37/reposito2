@@ -1,0 +1,2 @@
+﻿Artificial Intelligence (AI)
+Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
